@@ -1,10 +1,9 @@
 # 409.-Longest-Palindrome
 
-409. Longest Palindrome
-Easy
-Company
-Google
-Amazon
+* Easy
+* Company
+1. Google
+2. Amazon
 
 
 Given a string s which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.
